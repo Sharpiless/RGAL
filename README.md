@@ -1,7 +1,7 @@
 ## News
 * `2024/12/20` We release the code for the *data-free knowledge distillation* tasks.
 
-# AdaMPI
+# RGAL
 
 This is a PyTorch implementation of the following paper:
 
