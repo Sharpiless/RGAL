@@ -71,6 +71,8 @@ To running our method on different teacher and student models, modify "--teacher
 
 "--balanced_sampling" indicates the paired sampling strategy as in our paper.
 
+Pretrained checkpoints for examples are available at (best_model)[https://github.com/Sharpiless/RGAL/tree/main/best_model]
+
 ## License and Citation
 This repository can only be used for personal/research/non-commercial purposes.
 Please cite the following paper if this model helps your research:
