@@ -82,6 +82,9 @@ To running our method on different teacher and student models, modify "--teacher
 
 Pretrained checkpoints for examples are available at (best_model)[https://github.com/Sharpiless/RGAL/tree/main/best_model].
 
+![image](https://github.com/user-attachments/assets/3c8b7698-7f11-430c-ac6d-d7d0b4a22a7f)
+
+
 ## Visualization
 
 Please refer to (ZSKT)[https://github.com/polo5/ZeroShotKnowledgeTransfer].
